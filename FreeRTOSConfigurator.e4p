@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project FreeRTOSConfigurator -->
+<!-- Saved: 2012-03-05, 17:32:30 -->
+<!-- Copyright (C) 2012 Mauro Gamba, maurillo71@gmail.com -->
+<Project version="4.6">
+  <Language></Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description>A FreeRTOS configurator.</Description>
+  <Version>0.1</Version>
+  <Author>Mauro Gamba</Author>
+  <Email>maurillo71@gmail.com</Email>
+  <Sources>
+    <Source>start.py</Source>
+    <Source>__init__.py</Source>
+    <Source>forms/Ui_MainWindow.py</Source>
+    <Source>forms/MainWindow.py</Source>
+    <Source>FreeRTOSFileConfig.py</Source>
+  </Sources>
+  <Forms>
+    <Form>forms/MainWindow.ui</Form>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>start.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+</Project>

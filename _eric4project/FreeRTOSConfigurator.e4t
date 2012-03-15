@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-4.2.dtd">
+<!-- eric4 tasks file for project FreeRTOSConfigurator -->
+<!-- Saved: 2012-03-12, 17:55:44 -->
+<Tasks version="4.2">
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-05, 17:02:16</Created>
+    <Resource>
+      <Filename>forms/mainwindow.py</Filename>
+      <Linenumber>31</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-05, 17:02:16</Created>
+    <Resource>
+      <Filename>forms/mainwindow.py</Filename>
+      <Linenumber>47</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-05, 17:02:16</Created>
+    <Resource>
+      <Filename>forms/mainwindow.py</Filename>
+      <Linenumber>55</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: Request confirmation before closing</Summary>
+    <Description></Description>
+    <Created>2012-03-05, 17:02:16</Created>
+    <Resource>
+      <Filename>forms/mainwindow.py</Filename>
+      <Linenumber>63</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-05, 17:02:16</Created>
+    <Resource>
+      <Filename>forms/mainwindow.py</Filename>
+      <Linenumber>72</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-12, 14:39:13</Created>
+    <Resource>
+      <Filename>forms/MainWindow.py</Filename>
+      <Linenumber>55</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: Request confirmation before closing</Summary>
+    <Description></Description>
+    <Created>2012-03-12, 14:39:13</Created>
+    <Resource>
+      <Filename>forms/MainWindow.py</Filename>
+      <Linenumber>70</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2012-03-12, 14:39:13</Created>
+    <Resource>
+      <Filename>forms/MainWindow.py</Filename>
+      <Linenumber>79</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: Debug ...</Summary>
+    <Description></Description>
+    <Created>2012-03-12, 17:52:51</Created>
+    <Resource>
+      <Filename>FreeRTOSFileConfig.py</Filename>
+      <Linenumber>103</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
